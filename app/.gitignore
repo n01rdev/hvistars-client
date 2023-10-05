@@ -1,6 +1,10 @@
 # build output
 dist/
 
+#Local Metadata
+.idea/
+.vscode/
+
 # generated types
 .astro/
 
